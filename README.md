@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eirinko
 - 👀 I’m interested in coding, making stuff. 
 - 🌱 I’m currently learning Java, Javascript, HTML/CSS and GIT. 
-- 💞️ I’m looking to collaborate on: I'm going back to the university this fall and I can't wait!
+- 💞️ I’m looking to collaborate on: Dunno yet.
 - 📫 How to reach me ... eirinkorvald.ek@gmail.com
