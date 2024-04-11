@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eirinko
-- 👀 I’m interested in coding, making stuff. 
+- 👀 I’m interested in coding, making stuff and solving puzzles. 
 - 🌱 I’m currently learning Java, Javascript, GIT, computer networks. 
 - 💞️ I’m looking to collaborate on: Dunno yet.
 - 📫 How to reach me ... eirinkorvald.ek@gmail.com
