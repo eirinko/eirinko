@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @eirinko
 - 👀 I’m interested in coding, making stuff and solving puzzles. 
 - 🌱 I’m working as a trainee at Norgesgruppen Data, learning new skills.
-- 📫 How to reach me ... eirinkorvald.ek@gmail.com
